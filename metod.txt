@@ -1,0 +1,33 @@
+Код на Java	Описание
+/*           ==============================          */
+
+public class Person
+{
+   String name;
+   int age;
+}	
+
+Объявили новый сложный тип – Person.
+Его данные – это переменная name типа String (сложный тип) и переменная age типа int (примитивный тип)
+
+public class Rectangle
+{
+   int x, y, width, height;
+}	
+
+Объявили новый сложный тип – Rectangle.
+Он состоит из четырёх переменных примитивного типа – int.
+
+public class Cat
+{
+   Person owner;
+   Rectangle territory;
+   int age;
+   String name;
+}	
+
+Объявили новый сложный тип – Cat. У него есть переменные:
+— owner, сложный тип Person
+— territory, сложный тип Rectangle
+— age, примитивный тип int
+— name, сложный тип String
