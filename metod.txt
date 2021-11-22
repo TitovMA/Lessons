@@ -1,5 +1,5 @@
 Код на Java	Описание
-/*           ==============================          */
+/*           ==============================  ==        */
 
 public class Person
 {
@@ -31,3 +31,5 @@ public class Cat
 — territory, сложный тип Rectangle
 — age, примитивный тип int
 — name, сложный тип String
+
+
